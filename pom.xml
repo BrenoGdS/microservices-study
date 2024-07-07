@@ -12,7 +12,7 @@
 	<artifactId>microservices-study</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservices-study</name>
-	<description>Projeto de estudo para implementar e aprofundar conhecimentos de microserviços usando Spring Boot</description>
+	<description>Study project to implement and deepen knowledge of microservices using Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
